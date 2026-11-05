@@ -1,0 +1,9 @@
+{
+  "name": "jack-numeros-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "JACK y Números - aplicación web instalable",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
